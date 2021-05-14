@@ -1,0 +1,19 @@
+#snap_btn{
+    background-color: chartreuse;
+    color: rgb(13, 190, 235);
+    height: 100px;
+    width: 300px;
+    font-size: 42px;
+    border-radius: 7px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: cyan;
+}
+canvas{
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: cyan;
+    box-shadow: 5px 5px 10px crimson;
+}
